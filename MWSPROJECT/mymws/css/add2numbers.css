@@ -1,0 +1,92 @@
+.container {
+  display: grid;
+  grid-gap: 4px;
+  height: 100px;
+}
+.menu {
+  display: grid;
+  background: darkcyan;
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+  grid-gap: 4px;
+  padding-top: 10px;
+}
+.kotak {
+  display: grid;
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-top: 5%;
+  grid-gap: 4px;
+
+}
+.sub1 {
+  display: grid;
+  background: ghostwhite;
+  height: 50px;
+  grid-gap: 4px;
+}
+.operand1 {
+  text-align: center;
+  padding-top: 10px;
+}
+.form {
+  position: static;
+  font-size: 20px;
+  text-align: center;
+}
+.sub2 {
+  display: grid;
+  background: lightsteelblue;
+  height: 25px;
+  grid-gap: 4px;
+}
+.sub3 {
+  display: grid;
+  background: ghostwhite;
+  height: 50px;
+  grid-gap: 4px;
+}
+.operand2 {
+  text-align: center;
+  padding-top: 10px;
+}
+.form3 {
+  position: static;
+  font-size: 20px;
+  text-align: center;
+}
+.sub4 {
+  display: grid;
+  background: lightsteelblue;
+  height: 22px;
+  grid-gap: 4px;
+}
+.button {
+  text-align: center;
+}
+.sub5 {
+  display: grid;
+  background: ghostwhite;
+  height: 50px;
+  grid-gap: 4px;
+}
+.hasil {
+  text-align: center;
+  padding-top: 10px;
+}
+.form4 {
+  position: static;
+  font-size: 20px;
+  text-align: center;
+}
+.footter {
+  font-family: sans-serif;
+  padding-top: 19px;
+  text-align: center;
+  background: teal;
+  grid-column: 1/-1;
+  color: white;
+  padding-bottom: 10px;
+  margin-top: 223px;
+}

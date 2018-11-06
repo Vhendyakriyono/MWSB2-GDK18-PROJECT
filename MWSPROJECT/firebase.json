@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "mymws",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

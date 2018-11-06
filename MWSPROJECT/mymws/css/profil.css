@@ -1,0 +1,29 @@
+.container {
+  display: grid;
+  height: 100%;
+  grid-gap: 4px;
+}
+.header {
+  background: darkcyan;
+  grid-column: 1/-1;
+  font-family: sans-serif;
+  font-size: 30;
+  text-align: center;
+  color: white;
+  padding-top: 3px;
+  grid-gap: 4px;
+}
+.gmbbody {
+ padding-left: 25%;
+ padding-top: 5%;
+}
+.footter {
+  font-family: sans-serif;
+  padding-top: 19px;
+  text-align: center;
+  background: teal;
+  grid-column: 1/-1;
+  color: white;
+  padding-bottom: 10px;
+  margin-top: 215px;
+}
